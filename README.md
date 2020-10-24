@@ -10,7 +10,7 @@ download the reprository and run "face landmark detection.py"
 python "face landmark detection.py"
 ```
 
-if you don't have dlib and cv2 packages on your computer, install them by :
+if you don't have dlib and cv2 packages installed on your computer, install them by writing these commands in terminal :
 ```
 pip install dlib
 ```
@@ -18,6 +18,7 @@ and
 ```
 pip install opencv-python 
 ```
+
 if the above approch doesn't work for you, then try creating enviorment first and then follow the similar approch.
 ## Future work
 > We can use the landmarks predicted by the above program as follow:
