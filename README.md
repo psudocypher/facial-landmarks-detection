@@ -5,6 +5,8 @@
 
 <img src = "facial landmarks image/landmarks.png" width = 300>
 
+![GIF](GIF/ezgif.com-gif-maker.gif)
+
 
 ## Future work
 > We can use the landmarks predicted by the above program as follow:
